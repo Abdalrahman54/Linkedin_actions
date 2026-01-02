@@ -1,0 +1,14 @@
+ai_linkedin_agent/
+│
+├── data/
+│   └── used_topics.txt          # ذاكرة النظام الوحيدة
+│
+├── agent/
+│   ├── search.py                # البحث عن المواضيع
+│   ├── writer.py                # كتابة المحتوى
+│   └── memory.py                # إدارة الذاكرة
+│
+├── main.py                      # الملف الرئيسي
+├── requirements.txt
+└── .github/workflows/daily.yml  # التشغيل التلقائي
+nxxf pytp himv qaya
