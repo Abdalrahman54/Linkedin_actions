@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 class SearchEngine:
     def __init__(self):
-        self.api_key = os.environ.get('SERPER_API_KEY')
+        self.api_key = os.getenv('SERPER_API_KEY', '').strip().strip('"').strip("'")
         if not self.api_key:
             raise ValueError("SERPER_API_KEY not found in environment variables")
         
@@ -14,11 +14,14 @@ class SearchEngine:
         """البحث عن أحدث مواضيع AI و NLP و LLMs"""
         
         queries = [
-            "latest AI research 2025",
             "new NLP models",
             "LLMs breakthrough",
-            "AI tools 2025",
-            "machine learning applications",
+            "AI Agents updates",
+            "tokens",
+            "transformer models",
+            "large language models",
+            "embeddings",
+            "fine tuning LLMs",
             "generative AI news"
         ]
         
