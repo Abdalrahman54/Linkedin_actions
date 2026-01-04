@@ -4,19 +4,16 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
-# إضافة المسار للوحدات
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'agent'))
-
-from memory import Memory
-from search import SearchEngine
-from writer import ContentWriter
+from agent.memory import Memory
+from agent.search import SearchEngine
+from agent.writer import ContentWriter
 
 def send_email(post_content, topic_title):
     """إرسال البوست عبر البريد الإلكتروني"""
     
-    sender_email = os.environ.get('SENDER_EMAIL')
-    sender_password = os.environ.get('SENDER_PASSWORD')
-    receiver_email = os.environ.get('RECEIVER_EMAIL')
+    sender_email = os.getenv('SENDER_EMAIL', '').strip().strip('"').strip("'")
+    sender_password = os.getenv('SENDER_PASSWORD', '').strip().strip('"').strip("'")
+    receiver_email = os.getenv('RECEIVER_EMAIL', '').strip().strip('"').strip("'")
     
     if not all([sender_email, sender_password, receiver_email]):
         print("Email credentials not configured")
@@ -28,12 +25,15 @@ def send_email(post_content, topic_title):
         msg['To'] = receiver_email
         msg['Subject'] = f"LinkedIn Post: {topic_title}"
         
-        body = f"""بوست LinkedIn الجديد:
+        body = f"""🔥 بوست LinkedIn الجديد جاهز للنشر:
 
 {post_content}
 
----
-تم الإنشاء بواسطة AI LinkedIn Agent
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📌 الملخص (للذاكرة فقط):
+{topic_title}
+
+🤖 تم الإنشاء بواسطة AI LinkedIn Agent
 """
         
         msg.attach(MIMEText(body, 'plain', 'utf-8'))
@@ -73,36 +73,44 @@ def main():
         print("[3/7] Searching for new AI topics...")
         search_engine = SearchEngine()
         
-        max_attempts = 10
+        # جلب كل المواضيع مرة واحدة
+        all_topics = search_engine.search_ai_topics()
+        filtered_topics = search_engine.filter_quality_sources(all_topics)
+        
+        # لو مافيش مواضيع
+        if not filtered_topics:
+            filtered_topics = all_topics
+        
+        if not filtered_topics:
+            print("✗ No topics found from search")
+            sys.exit(1)
+        
+        print(f"      Found {len(filtered_topics)} topics")
+        
+        # البحث عن موضوع فريد
         selected_topic = None
         
-        for attempt in range(max_attempts):
-            print(f"      Attempt {attempt + 1}/{max_attempts}")
-            
-            topic = search_engine.get_best_topic()
-            
-            if not topic:
-                print("      No topics found")
-                continue
+        for i, topic in enumerate(filtered_topics):
+            print(f"      Checking topic {i+1}/{len(filtered_topics)}")
             
             topic_title = topic.get('title', '')
             topic_snippet = topic.get('snippet', '')
             
-            # 4. التحقق من عدم التكرار
+            # التحقق من عدم التكرار
             is_used = memory.is_topic_used(topic_title, topic_snippet)
             
             if not is_used:
                 selected_topic = topic
-                print(f"      ✓ Found unique topic: {topic_title[:50]}...")
+                print(f"      ✓ Found unique topic: {topic_title[:60]}...")
                 break
             else:
-                print(f"      ✗ Topic already used, searching again...")
+                print(f"      ✗ Already used: {topic_title[:40]}...")
         
         if not selected_topic:
-            print("\n✗ Could not find unique topic after all attempts")
+            print("\n✗ All topics were already used")
             sys.exit(1)
         
-        # 5. توليد المحتوى
+        # 4. توليد المحتوى
         print("[4/7] Generating LinkedIn post...")
         writer = ContentWriter()
         
