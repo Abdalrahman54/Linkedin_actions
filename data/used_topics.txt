@@ -8,5 +8,10 @@
     "post_number": 2,
     "post_title": "دليلك الشامل لتعلم LLMs: مراجعة لمحتوى ريبو llm-course على GitHub لجميع المستويات",
     "post_summary": "في ناس كتير كلمتني انها محتارة ازاي تبدا او تكمل ف الـ LLMs فـ mlabonne/llm-course على GitHub بصراحة من أحسن الريبو اللي وقعت عليها بالصدفة واللي هتساعدك في أي مرحلة سواء لسه بتبدأ أو عايز توصل لمستوى كويس\nالريبو ده فيه حاجات قوية جدا زي\nشرح أساسيات الـ LLMs والـ Neural Networks بشكل عملي وبـ Notebooks جاهزة تقدر تشتغل عليها على طول.\nجزء كامل عن RAG Pipelines إزاي تبنيها من الصفر وتستخدمها\nحاجات تانية مهمة جدا زي Fine-Tuning، Quantization، و Evaluation Methods لتطوير models بطريقة كويسة\nكمان بيغطي مواضيع مهمة زي Prompt Engineering، managing memory ، وتحسين أداء models في الproduction\nالجميل إنه مش مجرد شرح نظري لا هتلاقي أمثلة عملية و Notebooks تقدر تجربها بنفسك وتنفذ مشاريع كاملة.\n الريبو: https://lnkd.in/dDtQd9Vt\nhashtag#LLM hashtag#GenerativeAI hashtag#MachineLearning hashtag#DeepLearning hashtag#RAG hashtag#PromptEngineering hashtag#ArtificialIntelligence hashtag#AI hashtag#OpenSource hashtag#DataScience hashtag#LangChain hashtag#FineTuning hashtag#AICommunity hashtag#LearningPath hashtag#Tech"
+  },
+  {
+    "post_number": 3,
+    "title": "Top 30+ NLP Use Cases in 2026 with Real-life Examples",
+    "summary": "تطور تقنيات الـ NLP في 2026 نحو النمذجة المتخصصة والذكاء الاصطناعي الوكيل (Agentic AI) لتمكين اتخاذ قرارات معقدة وفورية في القطاعات الحيوية."
   }
 ]
