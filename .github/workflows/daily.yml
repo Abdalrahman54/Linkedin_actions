@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '30 15 * * *'
   
-  workflow_dispatch: 
+  workflow_dispatch: # للتشغيل اليدوي للاختبار
 
 jobs:
   run-agent:
@@ -41,5 +41,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/used_topics.txt
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update memory: $(date +'%Y-%m-%d')"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update memory: $(date +'%Y-%m-%d %H:%M')"
           git push
