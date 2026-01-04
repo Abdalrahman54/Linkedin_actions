@@ -3,12 +3,13 @@ import requests
 
 class ContentWriter:
     def __init__(self):
-        self.api_key = os.environ.get('OPENROUTER_API_KEY')
+        self.api_key = os.getenv('OPENROUTER_API_KEY', '').strip().strip('"').strip("'")
         if not self.api_key:
             raise ValueError("OPENROUTER_API_KEY not found in environment variables")
         
         self.base_url = "https://openrouter.ai/api/v1/chat/completions"
-        self.model = "google/gemini-flash-1.5-8b"
+        # استخدام موديل Gemini الصحيح
+        self.model = "google/gemini-3-flash-preview"
     
     def create_prompt(self, topic_title, topic_snippet, source_link, style_refs):
         """بناء البرومبت الصارم"""
@@ -27,6 +28,7 @@ Write a LinkedIn post
 
 Rules you must follow strictly
 Write only in Egyptian Arabic
+Mix technical English terms naturally with Arabic text
 Match exactly the users thinking style
 No punctuation marks at all
 No dots
@@ -42,12 +44,17 @@ No marketing tone
 
 Content rules
 Write about the provided topic only
+Focus on technical details and new technologies
+Go deeper into how things work
+Use English technical terms like: model architecture, training, inference, parameters, tokens, embeddings, fine-tuning, etc
+Explain the technical innovation or breakthrough
+Make it feel like an engineer talking to engineers
 Do not repeat any idea from previous posts
 The post must feel human confident and practical
-Short paragraphs
+Write 4-5 short paragraphs with technical depth
 
 Post structure
-Main content
+Main content with technical details
 Empty line
 Source link
 Empty line
@@ -97,7 +104,7 @@ Nothing else"""
                         }
                     ],
                     'temperature': 0.7,
-                    'max_tokens': 500
+                    'max_tokens': 800
                 },
                 timeout=30
             )
