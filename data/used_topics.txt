@@ -13,5 +13,10 @@
     "post_number": 3,
     "title": "Top 30+ NLP Use Cases in 2026 with Real-life Examples",
     "summary": "تطور تقنيات الـ NLP في 2026 نحو النمذجة المتخصصة والذكاء الاصطناعي الوكيل (Agentic AI) لتمكين اتخاذ قرارات معقدة وفورية في القطاعات الحيوية."
+  },
+  {
+    "post_number": 4,
+    "title": "More ways to build and scale AI agents with Vertex ...",
+    "summary": "يوفر Vertex AI Agent Engine بنية تحتية متكاملة لنقل وكلاء الذكاء الاصطناعي من مرحلة التجربة إلى الإنتاج الفعلي بكفاءة عالية وأدوات تقييم دقيقة."
   }
 ]
