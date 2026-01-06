@@ -18,5 +18,10 @@
     "post_number": 4,
     "title": "More ways to build and scale AI agents with Vertex ...",
     "summary": "يوفر Vertex AI Agent Engine بنية تحتية متكاملة لنقل وكلاء الذكاء الاصطناعي من مرحلة التجربة إلى الإنتاج الفعلي بكفاءة عالية وأدوات تقييم دقيقة."
+  },
+  {
+    "post_number": 5,
+    "title": "Generative AI with Large Language Models in C# in 2026 - .NET Blog",
+    "summary": "تطوير منظومة .NET لتقديم دعم أصلي (Native) ومتكامل لتقنيات الذكاء الاصطناعي التوليدي، مما يعزز أداء وكفاءة تشغيل النماذج الكبيرة (LLMs) برمجياً."
   }
 ]
