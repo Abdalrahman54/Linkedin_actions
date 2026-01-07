@@ -23,5 +23,10 @@
     "post_number": 5,
     "title": "Generative AI with Large Language Models in C# in 2026 - .NET Blog",
     "summary": "تطوير منظومة .NET لتقديم دعم أصلي (Native) ومتكامل لتقنيات الذكاء الاصطناعي التوليدي، مما يعزز أداء وكفاءة تشغيل النماذج الكبيرة (LLMs) برمجياً."
+  },
+  {
+    "post_number": 6,
+    "title": "Effective harnesses for long-running agents - Anthropic",
+    "summary": "تطوير Anthropic لنظام إدارة مهام الوكلاء الذكيين (Harness) لتعزيز كفاءة العمليات الطويلة عبر تقسيم المهام، ومعالجة الأخطاء، وتقليل استهلاك الموارد."
   }
 ]
