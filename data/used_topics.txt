@@ -28,5 +28,10 @@
     "post_number": 6,
     "title": "Effective harnesses for long-running agents - Anthropic",
     "summary": "تطوير Anthropic لنظام إدارة مهام الوكلاء الذكيين (Harness) لتعزيز كفاءة العمليات الطويلة عبر تقسيم المهام، ومعالجة الأخطاء، وتقليل استهلاك الموارد."
+  },
+  {
+    "post_number": 7,
+    "title": "Microsoft Build 2025: The age of AI agents and building the open ...",
+    "summary": "تطور الـ AI Agents من مجرد توليد نصوص إلى أنظمة ذكية ذاتية الإدارة تعتمد على التفكير المنطقي، الذاكرة الطويلة، والتعاون البيني عبر الـ Open Agentic Web."
   }
 ]
