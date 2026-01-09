@@ -33,5 +33,10 @@
     "post_number": 7,
     "title": "Microsoft Build 2025: The age of AI agents and building the open ...",
     "summary": "تطور الـ AI Agents من مجرد توليد نصوص إلى أنظمة ذكية ذاتية الإدارة تعتمد على التفكير المنطقي، الذاكرة الطويلة، والتعاون البيني عبر الـ Open Agentic Web."
+  },
+  {
+    "post_number": 8,
+    "title": "What are tokens and how to count them? - OpenAI Help Center",
+    "summary": "شرح مفهوم الـ Tokenization وآلية عمله في النماذج اللغوية الكبيرة وأهميته في تحسين التكلفة والأداء التقني."
   }
 ]
