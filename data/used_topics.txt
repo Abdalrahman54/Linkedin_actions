@@ -38,5 +38,10 @@
     "post_number": 8,
     "title": "What are tokens and how to count them? - OpenAI Help Center",
     "summary": "شرح مفهوم الـ Tokenization وآلية عمله في النماذج اللغوية الكبيرة وأهميته في تحسين التكلفة والأداء التقني."
+  },
+  {
+    "post_number": 9,
+    "title": "Demystifying evals for AI agents - Anthropic",
+    "summary": "تحديات بناء وكلاء الذكاء الاصطناعي تكمن في تطوير نظم تقييم دقيقة (Evaluation Loops) تضمن موثوقية التفكير المنطقي واستقرار الأداء التقني."
   }
 ]
