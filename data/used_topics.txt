@@ -43,5 +43,10 @@
     "post_number": 9,
     "title": "Demystifying evals for AI agents - Anthropic",
     "summary": "تحديات بناء وكلاء الذكاء الاصطناعي تكمن في تطوير نظم تقييم دقيقة (Evaluation Loops) تضمن موثوقية التفكير المنطقي واستقرار الأداء التقني."
+  },
+  {
+    "post_number": 10,
+    "title": "Introduction to Large Language Models | Machine Learning",
+    "summary": "شرح الآلية التقنية لعمل النماذج اللغوية الكبيرة (LLMs) من التنبؤ الإحصائي والمعالجة الرياضية حتى مرحلة التعلم العميق والضبط الدقيق."
   }
 ]
