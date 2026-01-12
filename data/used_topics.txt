@@ -48,5 +48,10 @@
     "post_number": 10,
     "title": "Introduction to Large Language Models | Machine Learning",
     "summary": "شرح الآلية التقنية لعمل النماذج اللغوية الكبيرة (LLMs) من التنبؤ الإحصائي والمعالجة الرياضية حتى مرحلة التعلم العميق والضبط الدقيق."
+  },
+  {
+    "post_number": 11,
+    "title": "New tech and tools for retailers to succeed in an agentic shopping era",
+    "summary": "تحول التجارة الإلكترونية نحو نظام \"Agentic Commerce\" الذي يعتمد على وكلاء ذكاء اصطناعي مستقلين وبروتوكول موحد لاتخاذ قرارات شراء وتنفيذ عمليات متكاملة."
   }
 ]
