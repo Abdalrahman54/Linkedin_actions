@@ -58,5 +58,10 @@
     "post_number": 12,
     "title": "Embeddings | Machine Learning - Google for Developers",
     "summary": "دور الـ Embeddings في تحويل البيانات لمتجهات كثيفة (Dense Vectors) تعبر عن العلاقات الدلالية والأنماط المشتركة لتحسين فهم وكفاءة النماذج."
+  },
+  {
+    "post_number": 13,
+    "title": "[1706.03762] Attention Is All You Need - arXiv",
+    "summary": "تطوير معمارية الـ Transformer القائمة على الـ Self-Attention لتجاوز قيود النماذج التكرارية وتحقيق كفاءة أعلى في المعالجة المتوازية وفهم السياق."
   }
 ]
