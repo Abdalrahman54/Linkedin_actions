@@ -63,5 +63,10 @@
     "post_number": 13,
     "title": "[1706.03762] Attention Is All You Need - arXiv",
     "summary": "تطوير معمارية الـ Transformer القائمة على الـ Self-Attention لتجاوز قيود النماذج التكرارية وتحقيق كفاءة أعلى في المعالجة المتوازية وفهم السياق."
+  },
+  {
+    "post_number": 14,
+    "title": "Vector embeddings | OpenAI API",
+    "summary": "شرح دور الـ Vector Embeddings في تحويل النصوص لتمثيلات رياضية تعزز دقة البحث الدلالي (Semantic Search) وأنظمة الـ RAG."
   }
 ]
