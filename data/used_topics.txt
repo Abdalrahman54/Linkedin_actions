@@ -68,5 +68,10 @@
     "post_number": 14,
     "title": "Vector embeddings | OpenAI API",
     "summary": "شرح دور الـ Vector Embeddings في تحويل النصوص لتمثيلات رياضية تعزز دقة البحث الدلالي (Semantic Search) وأنظمة الـ RAG."
+  },
+  {
+    "post_number": 15,
+    "title": "LLMs: Fine-tuning, distillation, and prompt engineering",
+    "summary": "توضيح الفروق التقنية بين الـ Fine-tuning والـ Distillation والـ Prompt Engineering كاستراتيجيات لتحسين أداء ونماذج اللغات الضخمة (LLMs)."
   }
 ]
