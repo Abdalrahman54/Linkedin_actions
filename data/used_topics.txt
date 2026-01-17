@@ -73,5 +73,10 @@
     "post_number": 15,
     "title": "LLMs: Fine-tuning, distillation, and prompt engineering",
     "summary": "توضيح الفروق التقنية بين الـ Fine-tuning والـ Distillation والـ Prompt Engineering كاستراتيجيات لتحسين أداء ونماذج اللغات الضخمة (LLMs)."
+  },
+  {
+    "post_number": 16,
+    "title": "The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs",
+    "summary": "تطور تقنيات الـ Fine-tuning لتحقيق كفاءة المعلمات (Parameter Efficiency) وضمان دقة الأداء دون فقدان المعرفة الأساسية للنموذج."
   }
 ]
