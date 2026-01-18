@@ -78,5 +78,10 @@
     "post_number": 16,
     "title": "The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs",
     "summary": "تطور تقنيات الـ Fine-tuning لتحقيق كفاءة المعلمات (Parameter Efficiency) وضمان دقة الأداء دون فقدان المعرفة الأساسية للنموذج."
+  },
+  {
+    "post_number": 17,
+    "title": "Generative AI news and analysis - TechCrunch",
+    "summary": "استعراض لأبرز التحولات التقنية الحالية في تطوير نماذج الذكاء الاصطناعي من حيث كفاءة البنية التحتية، التخصص، وتكامل الوسائط المتعددة."
   }
 ]
