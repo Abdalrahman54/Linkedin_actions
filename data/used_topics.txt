@@ -83,5 +83,10 @@
     "post_number": 17,
     "title": "Generative AI news and analysis - TechCrunch",
     "summary": "استعراض لأبرز التحولات التقنية الحالية في تطوير نماذج الذكاء الاصطناعي من حيث كفاءة البنية التحتية، التخصص، وتكامل الوسائط المتعددة."
+  },
+  {
+    "post_number": 18,
+    "title": "What does the future hold for generative AI? | MIT News",
+    "summary": "تحول مستقبل الذكاء الاصطناعي من زيادة الحجم إلى كفاءة البنية التحتية، جودة البيانات، والقدرة على التنفيذ الذاتي للمهام (Agentic Workflows)."
   }
 ]
