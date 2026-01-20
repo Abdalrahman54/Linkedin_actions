@@ -88,5 +88,10 @@
     "post_number": 18,
     "title": "What does the future hold for generative AI? | MIT News",
     "summary": "تحول مستقبل الذكاء الاصطناعي من زيادة الحجم إلى كفاءة البنية التحتية، جودة البيانات، والقدرة على التنفيذ الذاتي للمهام (Agentic Workflows)."
+  },
+  {
+    "post_number": 19,
+    "title": "[2303.18223] A Survey of Large Language Models - arXiv",
+    "summary": "تحليل شامل لرحلة تطوير النماذج اللغوية الكبيرة (LLMs) من مرحلة البناء والتدريب حتى التحسين والتشغيل لضمان كفاءة الأداء والدقة."
   }
 ]
