@@ -93,5 +93,10 @@
     "post_number": 19,
     "title": "[2303.18223] A Survey of Large Language Models - arXiv",
     "summary": "تحليل شامل لرحلة تطوير النماذج اللغوية الكبيرة (LLMs) من مرحلة البناء والتدريب حتى التحسين والتشغيل لضمان كفاءة الأداء والدقة."
+  },
+  {
+    "post_number": 20,
+    "title": "The assistant axis: situating and stabilizing the character ... - Anthropic",
+    "summary": "التحكم في شخصية وسلوك الذكاء الاصطناعي بدقة رياضية عبر توجيه التنشيطات الداخلية (Activation Steering) بدلاً من هندسة الأوامر التقليدية."
   }
 ]
