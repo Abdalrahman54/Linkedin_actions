@@ -98,5 +98,10 @@
     "post_number": 20,
     "title": "The assistant axis: situating and stabilizing the character ... - Anthropic",
     "summary": "التحكم في شخصية وسلوك الذكاء الاصطناعي بدقة رياضية عبر توجيه التنشيطات الداخلية (Activation Steering) بدلاً من هندسة الأوامر التقليدية."
+  },
+  {
+    "post_number": 21,
+    "title": "Are AI agents ready for the workplace? A new benchmark raises ...",
+    "summary": "تتمثل عقبة الـ AI agents الحالية في ضعف الموثوقية عند تنفيذ مهام معقدة وطويلة التسلسل، مما يتطلب تطوير قدرات إدارة الذاكرة ومعالجة السياق لضمان دقة التنفيذ في بيئات العمل المتخصصة."
   }
 ]
