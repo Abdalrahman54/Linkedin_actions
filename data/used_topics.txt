@@ -113,5 +113,10 @@
     "post_number": 23,
     "title": "Large Language Models (LLMs) with Google AI",
     "summary": "الابتكار التقني في نماذج جوجل اللغوية يرتكز على بنية هندسية متطورة (MoE) وبنية تحتية قوية تحقق توازناً مثالياً بين سرعة الأداء ودقة المعالجة."
+  },
+  {
+    "post_number": 24,
+    "title": "Tokenizer - OpenAI API",
+    "summary": "شرح الآلية التقنية لعمل الـ Tokenizer في نماذج OpenAI ودوره الجوهري في تحديد كفاءة الأداء، التكلفة، ومعالجة البيانات."
   }
 ]
