@@ -118,5 +118,10 @@
     "post_number": 24,
     "title": "Tokenizer - OpenAI API",
     "summary": "شرح الآلية التقنية لعمل الـ Tokenizer في نماذج OpenAI ودوره الجوهري في تحديد كفاءة الأداء، التكلفة، ومعالجة البيانات."
+  },
+  {
+    "post_number": 25,
+    "title": "How generative AI can help scientists synthesize complex ...",
+    "summary": "تطوير نموذج DiffSyn المعتمد على الذكاء الاصطناعي التوليدي والفيزياء لابتكار مواد جديدة بدقة عالية عبر أتمتة وتحديد معايير التصنيع المثالية."
   }
 ]
