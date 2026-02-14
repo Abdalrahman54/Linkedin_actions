@@ -123,5 +123,10 @@
     "post_number": 25,
     "title": "How generative AI can help scientists synthesize complex ...",
     "summary": "تطوير نموذج DiffSyn المعتمد على الذكاء الاصطناعي التوليدي والفيزياء لابتكار مواد جديدة بدقة عالية عبر أتمتة وتحديد معايير التصنيع المثالية."
+  },
+  {
+    "post_number": 26,
+    "title": "LLM Finetuning with peft - GitHub",
+    "summary": "تقليل تكلفة وموارد تدريب النماذج اللغوية الضخمة باستخدام تقنية PEFT وLoRA عبر تعديل أجزاء محدودة من الأوزان مع الحفاظ على الأداء."
   }
 ]
