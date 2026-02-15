@@ -128,5 +128,10 @@
     "post_number": 26,
     "title": "LLM Finetuning with peft - GitHub",
     "summary": "تقليل تكلفة وموارد تدريب النماذج اللغوية الضخمة باستخدام تقنية PEFT وLoRA عبر تعديل أجزاء محدودة من الأوزان مع الحفاظ على الأداء."
+  },
+  {
+    "post_number": 27,
+    "title": "The best NLP papers",
+    "summary": "تحول نماذج الـ NLP نحو الـ Reasoning الذاتي وتحسين منطق التفكير عبر الـ Reinforcement Learning لزيادة كفاءة حل المهام المعقدة."
   }
 ]
