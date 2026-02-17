@@ -133,5 +133,10 @@
     "post_number": 27,
     "title": "The best NLP papers",
     "summary": "تحول نماذج الـ NLP نحو الـ Reasoning الذاتي وتحسين منطق التفكير عبر الـ Reinforcement Learning لزيادة كفاءة حل المهام المعقدة."
+  },
+  {
+    "post_number": 28,
+    "title": "What are large language models (LLMs)? - Microsoft Azure",
+    "summary": "شرح الأسس التقنية لنماذج اللغات الكبيرة (LLMs) وآلية عملها من المعمارية الهندسية وحتى التدريب والتوليد."
   }
 ]
