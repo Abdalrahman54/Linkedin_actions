@@ -143,5 +143,10 @@
     "post_number": 29,
     "title": "The 2025 AI Agent Index",
     "summary": "تحول الذكاء الاصطناعي في 2025 من مجرد أدوات دردشة إلى \"وكلاء تنفيذيين\" (Agents) قادرين على التخطيط الذاتي وحل المهام المعقدة برمجياً وعملياً."
+  },
+  {
+    "post_number": 30,
+    "title": "AI Demystified: Introduction to large language models | University IT",
+    "summary": "شرح الآليات التقنية والهيكلية التي تمكن النماذج اللغوية الكبيرة (LLMs) من فهم السياق وتوليد استجابات منطقية."
   }
 ]
