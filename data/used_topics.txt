@@ -148,5 +148,10 @@
     "post_number": 30,
     "title": "AI Demystified: Introduction to large language models | University IT",
     "summary": "شرح الآليات التقنية والهيكلية التي تمكن النماذج اللغوية الكبيرة (LLMs) من فهم السياق وتوليد استجابات منطقية."
+  },
+  {
+    "post_number": 31,
+    "title": "Jira's latest update allows AI agents and humans to work side by side",
+    "summary": "تحول Jira نحو فرق هندسية هجينة تعتمد على عملاء ذكاء اصطناعي (AI Agents) يتمتعون بصلاحيات تنفيذية وقدرة على اتخاذ قرارات تقنية مستقلة."
   }
 ]
