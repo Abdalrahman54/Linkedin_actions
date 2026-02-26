@@ -153,5 +153,10 @@
     "post_number": 31,
     "title": "Jira's latest update allows AI agents and humans to work side by side",
     "summary": "تحول Jira نحو فرق هندسية هجينة تعتمد على عملاء ذكاء اصطناعي (AI Agents) يتمتعون بصلاحيات تنفيذية وقدرة على اتخاذ قرارات تقنية مستقلة."
+  },
+  {
+    "post_number": 32,
+    "title": "The Intelligent OS: Making AI agents more helpful for Android apps",
+    "summary": "تحويل تطبيقات أندرويد إلى وظائف برمجية (APIs) لتمكين مساعدي الذكاء الاصطناعي من تنفيذ المهام بدقة وسرعة دون الاعتماد على واجهة المستخدم."
   }
 ]
