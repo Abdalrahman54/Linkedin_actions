@@ -158,5 +158,10 @@
     "post_number": 32,
     "title": "The Intelligent OS: Making AI agents more helpful for Android apps",
     "summary": "تحويل تطبيقات أندرويد إلى وظائف برمجية (APIs) لتمكين مساعدي الذكاء الاصطناعي من تنفيذ المهام بدقة وسرعة دون الاعتماد على واجهة المستخدم."
+  },
+  {
+    "post_number": 33,
+    "title": "How Large Language Models Learn - ByteByteGo Newsletter",
+    "summary": "شرح المبادئ التقنية والهيكلية التي تحكم عمل النماذج اللغوية الكبيرة (LLMs) بدءاً من التدريب والمعالجة وصولاً إلى التوليد والضبط الدقيق."
   }
 ]
