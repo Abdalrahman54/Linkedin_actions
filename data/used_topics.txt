@@ -163,5 +163,10 @@
     "post_number": 33,
     "title": "How Large Language Models Learn - ByteByteGo Newsletter",
     "summary": "شرح المبادئ التقنية والهيكلية التي تحكم عمل النماذج اللغوية الكبيرة (LLMs) بدءاً من التدريب والمعالجة وصولاً إلى التوليد والضبط الدقيق."
+  },
+  {
+    "post_number": 34,
+    "title": "Mixing generative AI with physics to create personal items that work ...",
+    "summary": "دمج محاكاة قوانين الفيزياء مع الذكاء الاصطناعي التوليدي لإنتاج نماذج ثلاثية الأبعاد قابلة للتصنيع والاستخدام الفعلي بدلاً من مجرد التصميمات الجمالية."
   }
 ]
