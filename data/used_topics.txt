@@ -168,5 +168,10 @@
     "post_number": 34,
     "title": "Mixing generative AI with physics to create personal items that work ...",
     "summary": "دمج محاكاة قوانين الفيزياء مع الذكاء الاصطناعي التوليدي لإنتاج نماذج ثلاثية الأبعاد قابلة للتصنيع والاستخدام الفعلي بدلاً من مجرد التصميمات الجمالية."
+  },
+  {
+    "post_number": 35,
+    "title": "Breakthroughs in LLM Reasoning Show a Path Forward for Neuro ...",
+    "summary": "دمج الذكاء الاصطناعي العصبي والمنطق الرمزي (Neuro-symbolic) لبناء أنظمة قانونية دقيقة قادرة على تحويل عقود التأمين المعقدة إلى كود برمجي قابل للتنفيذ آلياً."
   }
 ]
