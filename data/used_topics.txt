@@ -173,5 +173,10 @@
     "post_number": 35,
     "title": "Breakthroughs in LLM Reasoning Show a Path Forward for Neuro ...",
     "summary": "دمج الذكاء الاصطناعي العصبي والمنطق الرمزي (Neuro-symbolic) لبناء أنظمة قانونية دقيقة قادرة على تحويل عقود التأمين المعقدة إلى كود برمجي قابل للتنفيذ آلياً."
+  },
+  {
+    "post_number": 36,
+    "title": "A paper list of pre-trained language models (PLMs).",
+    "summary": "تطور معمارية الـ Transformers وتقنيات الـ Pre-training هما الركيزة الأساسية لنماذج اللغة الضخمة الحديثة وكفاءتها في فهم وتوليد اللغة."
   }
 ]
