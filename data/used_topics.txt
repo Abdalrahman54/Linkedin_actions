@@ -178,5 +178,10 @@
     "post_number": 36,
     "title": "A paper list of pre-trained language models (PLMs).",
     "summary": "تطور معمارية الـ Transformers وتقنيات الـ Pre-training هما الركيزة الأساسية لنماذج اللغة الضخمة الحديثة وكفاءتها في فهم وتوليد اللغة."
+  },
+  {
+    "post_number": 37,
+    "title": "Embedding space and static embeddings | Machine Learning",
+    "summary": "شرح مفهوم الـ Embedding Space كآلية لتحويل الكلمات لمتجهات رقمية كثيفة تعبر عن العلاقات الدلالية والهندسية بين المفردات."
   }
 ]
