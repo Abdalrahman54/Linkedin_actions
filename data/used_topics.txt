@@ -213,5 +213,10 @@
     "post_number": 43,
     "title": "AI agent trends 2026 report | Google Cloud",
     "summary": "تطور أنظمة الـ AI Agents نحو الاستقلالية الكاملة في التفكير والتنفيذ عبر دمج قدرات التخطيط الذاتي وتحسين كفاءة الموارد."
+  },
+  {
+    "post_number": 44,
+    "title": "Understanding tokens - .NET",
+    "summary": "أهمية فهم آلية الـ Tokenization في بيئة NET. لتحسين أداء وتكلفة وجودة نماذج الذكاء الاصطناعي."
   }
 ]
