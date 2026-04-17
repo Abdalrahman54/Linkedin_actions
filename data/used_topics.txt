@@ -218,5 +218,10 @@
     "post_number": 44,
     "title": "Understanding tokens - .NET",
     "summary": "أهمية فهم آلية الـ Tokenization في بيئة NET. لتحسين أداء وتكلفة وجودة نماذج الذكاء الاصطناعي."
+  },
+  {
+    "post_number": 45,
+    "title": "Understanding tokens - .NET | Microsoft Learn",
+    "summary": "شرح آلية عمل الـ tokens ودورها في معالجة اللغات الطبيعية تقنياً وكيفية تحسين استهلاكها برمجياً في بيئة .NET."
   }
 ]
