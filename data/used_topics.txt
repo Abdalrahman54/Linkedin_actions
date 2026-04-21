@@ -223,5 +223,10 @@
     "post_number": 45,
     "title": "Understanding tokens - .NET | Microsoft Learn",
     "summary": "شرح آلية عمل الـ tokens ودورها في معالجة اللغات الطبيعية تقنياً وكيفية تحسين استهلاكها برمجياً في بيئة .NET."
+  },
+  {
+    "post_number": 46,
+    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more ...",
+    "summary": "تحديث SDK الخاص بـ OpenAI يعزز موثوقية وأمان الـ AI Agents في بيئات العمل الضخمة عبر تحكم أدق في الـ Workflow وتقليل الأخطاء."
   }
 ]
