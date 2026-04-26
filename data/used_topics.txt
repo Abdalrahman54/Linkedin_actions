@@ -228,5 +228,10 @@
     "post_number": 46,
     "title": "OpenAI updates its Agents SDK to help enterprises build safer, more ...",
     "summary": "تحديث SDK الخاص بـ OpenAI يعزز موثوقية وأمان الـ AI Agents في بيئات العمل الضخمة عبر تحكم أدق في الـ Workflow وتقليل الأخطاء."
+  },
+  {
+    "post_number": 47,
+    "title": "What is a Large Language Model (LLM)? | Stanford HAI",
+    "summary": "شرح الآلية التقنية لعمل النماذج اللغوية الكبيرة (LLMs) بدءاً من بنية الـ Transformer وصولاً إلى قدرتها على التعميم وحل المهام المعقدة."
   }
 ]
