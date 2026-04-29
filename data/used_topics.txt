@@ -233,5 +233,10 @@
     "post_number": 47,
     "title": "What is a Large Language Model (LLM)? | Stanford HAI",
     "summary": "شرح الآلية التقنية لعمل النماذج اللغوية الكبيرة (LLMs) بدءاً من بنية الـ Transformer وصولاً إلى قدرتها على التعميم وحل المهام المعقدة."
+  },
+  {
+    "post_number": 48,
+    "title": "What's new in Copilot Studio: Updates to multi-agent systems",
+    "summary": "تطوير قدرات Copilot Studio في إدارة الأنظمة متعددة الوكلاء (Multi-agent) عبر أتمتة التنسيق الديناميكي وتحسين كفاءة تنفيذ المهام المعقدة."
   }
 ]
