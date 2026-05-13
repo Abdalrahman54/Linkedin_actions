@@ -238,5 +238,10 @@
     "post_number": 48,
     "title": "What's new in Copilot Studio: Updates to multi-agent systems",
     "summary": "تطوير قدرات Copilot Studio في إدارة الأنظمة متعددة الوكلاء (Multi-agent) عبر أتمتة التنسيق الديناميكي وتحسين كفاءة تنفيذ المهام المعقدة."
+  },
+  {
+    "post_number": 49,
+    "title": "[2405.12819] Large Language Models Meet NLP: A Survey - arXiv",
+    "summary": "تحليل التحولات التقنية في هندسة النماذج اللغوية الكبيرة (LLMs) من حيث التصميم، والتحسين، وطرق التقييم لضمان كفاءة الأداء في التطبيقات الواقعية."
   }
 ]
