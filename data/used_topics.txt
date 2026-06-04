@@ -248,5 +248,10 @@
     "post_number": 50,
     "title": "What are AI agents? - GitHub",
     "summary": "تطور الـ AI Agents من مجرد أدوات دردشة إلى أنظمة ذكية ذاتية الإدارة (Autonomous) قادرة على التفكير المنطقي، حل المشكلات المعقدة، وتطوير البرمجيات بشكل متكامل."
+  },
+  {
+    "post_number": 51,
+    "title": "AI agents — what they are, and how they'll change the way we work",
+    "summary": "تحول الذكاء الاصطناعي من مجرد واجهة دردشة إلى عملاء ذكيين (AI Agents) قادرين على التخطيط، واستخدام الأدوات، وإدارة سير عمل متكامل بشكل ذاتي."
   }
 ]
