@@ -253,5 +253,10 @@
     "post_number": 51,
     "title": "AI agents — what they are, and how they'll change the way we work",
     "summary": "تحول الذكاء الاصطناعي من مجرد واجهة دردشة إلى عملاء ذكيين (AI Agents) قادرين على التخطيط، واستخدام الأدوات، وإدارة سير عمل متكامل بشكل ذاتي."
+  },
+  {
+    "post_number": 52,
+    "title": "¿Qué son los tokens y cómo contarlos? - OpenAI Help Center",
+    "summary": "شرح مفهوم الـ Tokens ودورها الجوهري في معالجة النماذج اللغوية للبيانات وتأثيرها على التكلفة والأداء التقني."
   }
 ]
