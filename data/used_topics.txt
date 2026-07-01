@@ -258,5 +258,10 @@
     "post_number": 52,
     "title": "¿Qué son los tokens y cómo contarlos? - OpenAI Help Center",
     "summary": "شرح مفهوم الـ Tokens ودورها الجوهري في معالجة النماذج اللغوية للبيانات وتأثيرها على التكلفة والأداء التقني."
+  },
+  {
+    "post_number": 53,
+    "title": "How agents are transforming work",
+    "summary": "تحول النماذج اللغوية من مجرد أدوات توليد نص إلى أنظمة تنفيذية ذاتية (Agents) قادرة على التفكير المنطقي وإدارة مهام معقدة بدقة عالية."
   }
 ]
