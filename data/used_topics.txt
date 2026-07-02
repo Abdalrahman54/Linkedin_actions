@@ -263,5 +263,10 @@
     "post_number": 53,
     "title": "How agents are transforming work",
     "summary": "تحول النماذج اللغوية من مجرد أدوات توليد نص إلى أنظمة تنفيذية ذاتية (Agents) قادرة على التفكير المنطقي وإدارة مهام معقدة بدقة عالية."
+  },
+  {
+    "post_number": 54,
+    "title": "Google Cloud supercharges NLP with large language ...",
+    "summary": "تطوير جوجل لـ Natural Language API عبر دمج النماذج اللغوية الكبيرة (LLMs) لرفع دقة تصنيف المحتوى المعقد آلياً دون تدريب يدوي."
   }
 ]
