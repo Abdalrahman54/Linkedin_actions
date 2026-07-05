@@ -268,5 +268,10 @@
     "post_number": 54,
     "title": "Google Cloud supercharges NLP with large language ...",
     "summary": "تطوير جوجل لـ Natural Language API عبر دمج النماذج اللغوية الكبيرة (LLMs) لرفع دقة تصنيف المحتوى المعقد آلياً دون تدريب يدوي."
+  },
+  {
+    "post_number": 55,
+    "title": "A Comprehensive Overview of Large Language Models",
+    "summary": "تطور نماذج اللغات الكبيرة (LLMs) من خلال تحسين البنية الهندسية، وتقنيات التدريب والضبط، وتحقيق كفاءة التشغيل (Inference)."
   }
 ]
