@@ -273,5 +273,10 @@
     "post_number": 55,
     "title": "A Comprehensive Overview of Large Language Models",
     "summary": "تطور نماذج اللغات الكبيرة (LLMs) من خلال تحسين البنية الهندسية، وتقنيات التدريب والضبط، وتحقيق كفاءة التشغيل (Inference)."
+  },
+  {
+    "post_number": 56,
+    "title": "Fine-tuning LLMs: overview and guide",
+    "summary": "شرح الجوانب التقنية لعملية الـ Fine-tuning وكيفية توظيفها عبر Google Cloud لتخصيص سلوك النماذج بدقة وكفاءة عالية."
   }
 ]
