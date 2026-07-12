@@ -278,5 +278,10 @@
     "post_number": 56,
     "title": "Fine-tuning LLMs: overview and guide",
     "summary": "شرح الجوانب التقنية لعملية الـ Fine-tuning وكيفية توظيفها عبر Google Cloud لتخصيص سلوك النماذج بدقة وكفاءة عالية."
+  },
+  {
+    "post_number": 57,
+    "title": "AI Agents: The Updates",
+    "summary": "تحول الذكاء الاصطناعي من مجرد نماذج دردشة إلى وكلاء ذاتيين (AI Agents) متكاملة تعتمد على تدفقات عمل معقدة وقدرة عالية على التخطيط والتنفيذ المستقل داخل بيئات العمل البرمجية."
   }
 ]
