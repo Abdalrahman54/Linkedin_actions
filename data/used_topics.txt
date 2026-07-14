@@ -283,5 +283,10 @@
     "post_number": 57,
     "title": "AI Agents: The Updates",
     "summary": "تحول الذكاء الاصطناعي من مجرد نماذج دردشة إلى وكلاء ذاتيين (AI Agents) متكاملة تعتمد على تدفقات عمل معقدة وقدرة عالية على التخطيط والتنفيذ المستقل داخل بيئات العمل البرمجية."
+  },
+  {
+    "post_number": 58,
+    "title": "9 Transformers – 6.390 - Intro to Machine Learning",
+    "summary": "شرح الآلية التقنية لمعمارية الـ Transformer ودور الـ Self-Attention والـ Positional Encoding في معالجة البيانات المتسلسلة بكفاءة وسرعة."
   }
 ]
