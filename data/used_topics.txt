@@ -288,5 +288,10 @@
     "post_number": 58,
     "title": "9 Transformers – 6.390 - Intro to Machine Learning",
     "summary": "شرح الآلية التقنية لمعمارية الـ Transformer ودور الـ Self-Attention والـ Positional Encoding في معالجة البيانات المتسلسلة بكفاءة وسرعة."
+  },
+  {
+    "post_number": 59,
+    "title": "News",
+    "summary": "ابتكار معماري يقلل تكلفة الاستدلال وحجم الذاكرة عبر تفعيل عصبي انتقائي وتوحيد البيانات، لتمكين العملاء الذكيين (Autonomous Agents) على الأجهزة المحدودة."
   }
 ]
