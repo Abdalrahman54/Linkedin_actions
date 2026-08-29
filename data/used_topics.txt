@@ -398,5 +398,10 @@
     "post_number": 80,
     "title": "A new era for AI Search",
     "summary": "تحول محركات البحث من مجرد استرجاع للمعلومات إلى أنظمة وكلاء ذكية (Agentic Search) تعتمد على التفكير المنطقي والتنفيذ الذاتي للمهام المعقدة."
+  },
+  {
+    "post_number": 81,
+    "title": "Understanding and counting tokens | OpenAI Help Center",
+    "summary": "شرح مفهوم الـ tokens ودورها الجوهري في معالجة اللغات الطبيعية وتأثيرها على أداء وتكلفة ونمذجة الذكاء الاصطناعي."
   }
 ]
